@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2025-09-17
   Changes:
     - [item=belt-arithmetic-combinator] Move to circuit-input subgroup if SchallCircuitGroup is installed.
     - [recipe=belt-arithmetic-combinator] Replace [item=power-switch] with [item=arithmetic-combinator] in recipe.
