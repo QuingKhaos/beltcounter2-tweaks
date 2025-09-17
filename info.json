@@ -1,7 +1,7 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "beltcounter2-tweaks",
+  "title": "Belt Counter 2.0 Tweaks",
+  "description": "Opinionated tweaks to Belt Counter 2.0.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
